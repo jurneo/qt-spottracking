@@ -1,12 +1,25 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+*.[oa]
+backup
+release
+debug
+*.ncb
+*.pdb
+*.idb
+*.user
+*.log
+ui_*.*
+*.py
+*.suo
+*.lib
+*ake*ile*
+*.ilk
+*.exe
+*.dll
+*.exp
+*.bak
+*.slv
+*.*pre*
+*.db
+settings.xml
+plugins
 
-# Compiled Dynamic libraries
-*.so
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
